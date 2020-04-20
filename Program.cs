@@ -14,7 +14,7 @@ namespace AH_lab02
                 do
                 {
                 Console.WriteLine("Welcome to Grand Circus’ Room Detail Generator!");
-                Console.WriteLine("Enter Lenghth");
+                Console.WriteLine("Enter Length");
                 //Rectangle Area: A (area) = L (length) x W (width)
                 Console.Write("Please Enter the LENGTH of the room at GC: ");
                 decimal lengthSide = decimal.Parse(Console.ReadLine());
